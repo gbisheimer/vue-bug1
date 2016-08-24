@@ -16,7 +16,7 @@
     "lodash": "^4.15.0",
     "numeral": "^1.5.3",
     "stats-webpack-plugin": "^0.2.1",
-    "vue": "^2.0.0-rc.3",
+    "vue": "2.0.0-beta.7",
     "vue-strap": "^1.0.11",
     "vuex": "^2.0.0-rc.5"
   },
@@ -83,7 +83,7 @@
     "url-loader": "^0.5.7",
     "vue-hot-reload-api": "^2.0.6",
     "vue-html-loader": "^1.2.3",
-    "vue-loader": "^9.4.0",
+    "vue-loader": "9.3.2",
     "vue-style-loader": "^1.0.0",
     "webpack": "^1.12.2",
     "webpack-dev-server": "^1.9.0",
